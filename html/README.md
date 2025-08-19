@@ -7,3 +7,5 @@
 ### [Travel Agency App](travel-agency-app/index.html)
 
 ### [Heart Icon](heart-icon/index.html)
+
+### [Video App](video-app/index.html)

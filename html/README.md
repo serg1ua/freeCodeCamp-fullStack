@@ -11,3 +11,5 @@
 ### [Video App](video-app/index.html)
 
 ### [Cat Blog App](cat-blog-app/index.html)
+
+### [Event Hub App](event-hub-app/index.html)

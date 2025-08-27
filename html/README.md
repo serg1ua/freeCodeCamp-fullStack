@@ -13,3 +13,5 @@
 ### [Cat Blog App](cat-blog-app/index.html)
 
 ### [Event Hub App](event-hub-app/index.html)
+
+### [Hotel Feedback Form](hotel-feedback-form/index.html)

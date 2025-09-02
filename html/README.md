@@ -15,3 +15,5 @@
 ### [Event Hub App](event-hub-app/index.html)
 
 ### [Hotel Feedback Form](hotel-feedback-form/index.html)
+
+### [Exam Table App](exam-table-app/index.html)

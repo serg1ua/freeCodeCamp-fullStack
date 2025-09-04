@@ -17,3 +17,7 @@
 ### [Hotel Feedback Form](hotel-feedback-form/index.html)
 
 ### [Exam Table App](exam-table-app/index.html)
+
+### [Checkout Page](checkout-page/index.html)
+
+### [Movie Page](movie-page/index.html)

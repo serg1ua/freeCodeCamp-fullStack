@@ -10,7 +10,7 @@
 
 ### Front End Libraries
 
-### Python
+### [Python](python/README.md)
 
 ### Relational Databases
 

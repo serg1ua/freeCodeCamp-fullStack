@@ -11,3 +11,7 @@
 [Greeting Card](greeting-card/index.html)
 
 [Job Application Form](job-application-form/index.html)
+
+[Blog Post Card](blog-post-card/index.html)
+
+[Colored Markers](colored-markers/index.html)

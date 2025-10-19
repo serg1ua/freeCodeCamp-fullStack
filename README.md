@@ -6,7 +6,7 @@
 
 ### CSS
 
-### JavaScript
+### [JavaScript, Typescript](js-ts/README.md)
 
 ### Front End Libraries
 

@@ -15,3 +15,5 @@
 [Blog Post Card](blog-post-card/index.html)
 
 [Colored Markers](colored-markers/index.html)
+
+[Flex Gallery](flex-gallery/index.html)

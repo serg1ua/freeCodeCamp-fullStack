@@ -12,6 +12,6 @@
 
 ### [Python](python/README.md)
 
-### Relational Databases
+### [Relational Databases](sql/README.md)
 
 ### Backend JavaScript

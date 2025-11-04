@@ -17,3 +17,5 @@
 [Colored Markers](colored-markers/index.html)
 
 [Flex Gallery](flex-gallery/index.html)
+
+[Nutrition Label](nutrition-label/index.html)

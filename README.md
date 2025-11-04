@@ -4,7 +4,7 @@
 
 ### [HTML](html/README.md)
 
-### CSS
+### [CSS](css/README.md)
 
 ### [JavaScript, Typescript](js-ts/README.md)
 
@@ -12,6 +12,6 @@
 
 ### [Python](python/README.md)
 
-### Relational Databases
+### [Relational Databases](sql/README.md)
 
 ### Backend JavaScript

@@ -19,3 +19,5 @@
 [Flex Gallery](flex-gallery/index.html)
 
 [Nutrition Label](nutrition-label/index.html)
+
+[Cat](cat/index.html)

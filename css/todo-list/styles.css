@@ -1,0 +1,19 @@
+.sub-item-link {
+  text-decoration: none;
+}
+
+.sub-item-link:hover {
+  color: brown;
+}
+
+.sub-item-link:active {
+  color: brown;
+}
+
+.sub-item-link:active {
+  color: black;
+}
+
+.sub-item-link:focus {
+  outline: 2px solid brown;
+}

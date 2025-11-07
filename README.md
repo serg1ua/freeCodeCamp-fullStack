@@ -2,9 +2,7 @@
 
 ## Certified Full Stack Developer
 
-### [HTML](html/README.md)
-
-### [CSS](css/README.md)
+### [HTML, CSS](html-css/README.md)
 
 ### [JavaScript, Typescript](js-ts/README.md)
 

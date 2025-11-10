@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lightbox Viewer</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1>Gallery Viewer</h1>
+    <div class="gallery">
+      <img
+        src="https://cdn.freecodecamp.org/curriculum/labs/stonehenge-thumbnail.jpg"
+        alt="Thumbnail of Stonehenge Image"
+        class="gallery-item"
+        onclick="openLightbox(this.src.replace('-thumbnail', ''))"
+      />
+      <img
+        src="https://cdn.freecodecamp.org/curriculum/labs/storm-thumbnail.jpg"
+        alt="Thumbnail of Storm Image"
+        class="gallery-item"
+        onclick="openLightbox(this.src.replace('-thumbnail', ''))"
+      />
+      <img
+        src="https://cdn.freecodecamp.org/curriculum/labs/trees-thumbnail.jpg"
+        alt="Thumbnail of Trees Image"
+        class="gallery-item"
+        onclick="openLightbox(this.src.replace('-thumbnail', ''))"
+      />
+    </div>
+
+    <div class="lightbox" onclick="closeLightbox()">
+      <div class="lightbox-overlay">
+        <button id="close-btn" onclick="closeLightbox()">&times;</button>
+        <img id="lightbox-image" />
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

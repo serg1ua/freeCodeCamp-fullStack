@@ -49,3 +49,5 @@
 ### [Cat](cat/index.html)
 
 ### [Section Feature Page](section-feature-page/index.html)
+
+### [Gallery Viewer](lightbox-viewer/index.html)

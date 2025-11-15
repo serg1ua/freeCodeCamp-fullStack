@@ -51,3 +51,11 @@
 ### [Section Feature Page](section-feature-page/index.html)
 
 ### [Gallery Viewer](lightbox-viewer/index.html)
+
+### [Tailwind Examples](tailwind-examples/index.html)
+
+### [Accessibility](accessibility/index.html)
+
+### [Positioning](positioning/index.html)
+
+### [Table Widget](table-widget/index.html)

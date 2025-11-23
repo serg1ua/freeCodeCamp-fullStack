@@ -40,7 +40,7 @@
 
 ### [Job Application Form](job-application-form/index.html)
 
-### [Gallery Viewer](lightbox-viewer/index.html)
+### [Lightbox Gallery Viewer](lightbox-viewer/index.html)
 
 ### [Magazine Page](magazine-page/index.html)
 

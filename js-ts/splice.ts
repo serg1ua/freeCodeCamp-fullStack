@@ -1,3 +1,4 @@
+// Function to splice one array into another at a given index
 function frankenSplice<T = unknown>(arr1: T[], arr2: T[], index: number): T[] {
   const newArr = [...arr2];
 

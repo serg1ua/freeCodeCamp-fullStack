@@ -2,6 +2,8 @@
 
 ## [Caesar Cipher](caesar_cipher/main.py)
 
+## [Hanoi Tower](hanoi_tower/main.py)
+
 ## [RPG Character](rpg_character/main.py)
 
 ## [Pin Extractor](pin_extractor/main.py)

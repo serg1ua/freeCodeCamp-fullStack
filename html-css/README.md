@@ -32,6 +32,8 @@
 
 ### [Flex Gallery](flex-gallery/index.html)
 
+### [Form](form/index.html)
+
 ### [Greeting Card](greeting-card/index.html)
 
 ### [Heart Icon](heart-icon/index.html)

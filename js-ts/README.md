@@ -20,10 +20,6 @@
 
 [Note Editor](note-editor/index.html)
 
-[No Repeats](no-repeats/index.js)
-
-[Pairwise](pairwise/index.js)
-
 [Shopping Cart](shopping-cart/index.html)
 
 [Symmetric Difference](symmetric-difference/index.js)

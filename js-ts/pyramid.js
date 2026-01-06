@@ -1,3 +1,4 @@
+// Function to generate a pyramid pattern
 function pyramid(pattern, n, vertexDown) {
   let str = "\n";
 

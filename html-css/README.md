@@ -72,4 +72,6 @@
 
 ### [Video App](video-app/index.html)
 
+### [Video](video/index.html)
+
 ### [Wheel Animation](wheel-animation/index.html)

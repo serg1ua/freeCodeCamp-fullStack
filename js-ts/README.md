@@ -24,6 +24,8 @@
 
 [Pairwise](pairwise/index.js)
 
+[Linked List](linked-list/index.js)
+
 [Shopping Cart](shopping-cart/index.html)
 
 [Symmetric Difference](symmetric-difference/index.js)

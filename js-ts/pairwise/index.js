@@ -10,12 +10,11 @@
 
 function pairwise(arr, arg) {
   let result = 0;
-  const usedIndeces = {};
+  const usedIndeces = [];
   arr.forEach((el, index) => {
     for (let i = index + 1; i < arr.length; i++) {
-      if (el + arr[i] === arg && !(usedIndeces[index] || usedIndeces[i])) {
-        usedIndeces[index] = true;
-        usedIndeces[i] = true;
+      if (el + arr[i] === arg && !(usedIndeces.includes(index) || usedIndeces.includes(i))) {
+        usedIndeces.push(index, i);
         result += (index + i);
       }
     }

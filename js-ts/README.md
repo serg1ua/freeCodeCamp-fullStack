@@ -30,6 +30,8 @@
 
 [Symmetric Difference](symmetric-difference/index.js)
 
+[Flash Card Quiz](flash-card-quiz/README.md)
+
 [TODO List](todo-list/index.html)
 
 [Weather App](weather-app/index.html)
